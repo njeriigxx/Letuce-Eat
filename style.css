@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+.nav {
+  display: flex;
+  float: right;
+}
+
+.navbar {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  font-weight: bolder;
+
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  padding: 15px;
+}
+
+a:hover {
+  color: #F19201;
+  
+}
+
+.banner {
+  background-image: url(./images/image2.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 70vh;
+}
+
+.banner h2 {
+  margin-top: 90px;
+  color: white;
+  font-size: 40px;
+  font-weight: bolder;
+  
+}
+
+.closing-section {
+  background-image: url(./images/image8.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  height: auto;
+}
+
+.closing-section h1 {
+  font-size: 30px;
+  font-weight: 800px;
+  color: white;
+  text-align: center;
+  margin-top: 40px;
+}
+
+.closing-section p {
+  font-size: 20px;
+  color: white;
+  text-align: center;
+}
+
+button {
+  text-align: center;
+  background-color:rgb(229,229,229);
+  font-size: 25px;}
+
+ 
+
+.end {
+  margin-top: 378px;
+}
+
+.container {
+  margin: auto;
+  overflow: auto;
+  max-width: 1200px;
+}
+
+.card {
+  margin: 8px;
+  float: left;
+  width: 550px;
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+  float: right;
+}
+
+.container h2 {
+  text-align: center;
+  color: #F19201;
+  font-weight: bold;
+  font-size: 22px;
+}
+
+.container p {
+  text-align: center;
+}
+
+.box {
+  margin: 8px;
+  border: 0.2px solid grey;
+  float: left;
+  width: 550px;
+}
+
+.box h1 {
+  text-align: center;
+  color: #F19201;
+  font-size: 35px;
+}
+
+.box h2 {
+  text-align: center;
+}
+
+.box p {
+  text-align: center;
+}
+
+.centre{
+  width: 500px;
+}
+
+.food {
+  display: flex;
+
+}
+
+.dish {
+  display: flex;
+  
+}
