@@ -13,7 +13,7 @@
 
 }
 
-a {
+/* a {
   color: white;
   text-decoration: none;
   padding: 15px;
@@ -126,11 +126,24 @@ button {
 }
 
 .food {
-  display: flex;
-
+  margin-left: 400px;
+  justify-content: space-evenly;
+  display: flex; 
+  /* display: inline-block;   */
+  
+  
 }
 
 .dish {
+  margin-left: 400px;
+  justify-content: space-evenly;
   display: flex;
   
+  align-items: ;
 }
+.text {
+  float:right;
+  
+  padding-left: 50px; */
+  padding: 10px;
+} */
